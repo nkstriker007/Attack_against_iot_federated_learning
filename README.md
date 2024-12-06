@@ -14,3 +14,11 @@ The primary goal of this project is to improve the security and efficiency of Do
 - **WSN-DS Dataset**: Utilized for training and evaluating the DoS attack detection model.
 - **Enhanced Privacy**: Local training ensures data remains on client devices, addressing privacy concerns.
 
+## Future Work
+- **Experiment with advanced federated optimization algorithms.**
+
+- **Explore other datasets and attack scenarios.**
+
+- **Optimize communication efficiency for larger-scale deployments.**
+
+
